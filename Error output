@@ -1,0 +1,60 @@
+[Command: node /Users/nishat/511app/511test.js]
+/Users/nishat/node_modules/iobeam-client/lib/resources/DataStore.js:39
+            throw new Exception("data cannot be null/undefined");
+            ^
+Exception: data cannot be null/undefined
+[Finished in 0.392s]sending...
+DataStore {
+  add: [Function],
+  addNow: [Function],
+  fields: [Function],
+  rows: [Function],
+  reset: [Function],
+  size: [Function],
+  snapshot: [Function] }
+Data not sent
+undefined
+sending...
+Data not sent
+undefined
+DataStore {
+  add: [Function],
+  addNow: [Function],
+  fields: [Function],
+  rows: [Function],
+  reset: [Function],
+  size: [Function],
+  snapshot: [Function] }
+sending...
+Data not sent
+DataStore {
+  add: [Function],
+  addNow: [Function],
+  fields: [Function],
+  rows: [Function],
+  reset: [Function],
+  size: [Function],
+  snapshot: [Function] }
+undefined
+sending...
+Data not sent
+undefined
+DataStore {
+  add: [Function],
+  addNow: [Function],
+  fields: [Function],
+  rows: [Function],
+  reset: [Function],
+  size: [Function],
+  snapshot: [Function] }
+sending...
+Data not sent
+DataStore {
+  add: [Function],
+  addNow: [Function],
+  fields: [Function],
+  rows: [Function],
+  reset: [Function],
+  size: [Function],
+  snapshot: [Function] }
+undefined

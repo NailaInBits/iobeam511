@@ -1,0 +1,10 @@
+{
+  "name": "demo-app",
+  "version": "1.0.0",
+  "dependencies": {
+    "superagent": "^2.1.0"
+  },
+  "devDependencies": {
+    "should": "^11.1.0"
+  }
+}
