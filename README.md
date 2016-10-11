@@ -1,5 +1,4 @@
-# iobeam_511
-Sending data to iobeam's backend using an 511 API request and iobeam's client nodejs library.
-Data consists of NAVTEQ ids and their meters per hour. 
+# iobeam x 511 
+To demonstarte iobeam's real time data analysis capabilities, NYC's 511 API was used to send data to iobeam's backend. This was done using iobeam's client nodejs library and SuperAgent.
 
-API request done using SuperAgent.
+The data collected consists of NAVTEQ ids and their respective meters per hour. 
